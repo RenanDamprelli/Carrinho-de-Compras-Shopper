@@ -1,0 +1,302 @@
+[
+{
+    "idproduto": 16,
+    "name": "AZEITE  PORTUGUÊS EXTRA VIRGEM GALLO 500ML",
+    "price": 20.489999771118164,
+    "qty_stock": 158
+},
+{
+    "idproduto": 18,
+    "name": "BEBIDA ENERGÉTICA VIBE 2L",
+    "price": 8.989999771118164,
+    "qty_stock": 659
+},
+{
+    "idproduto": 19,
+    "name": "ENERGÉTICO RED BULL ENERGY DRINK 250ML",
+    "price": 7.289999961853027,
+    "qty_stock": 909
+},
+{
+    "idproduto": 20,
+    "name": "ENERGÉTICO RED BULL ENERGY DRINK 355ML",
+    "price": 10.789999961853027,
+    "qty_stock": 159
+},
+{
+    "idproduto": 22,
+    "name": "ENERGÉTICO RED BULL ENERGY DRINK SEM AÇÚCAR 250ML",
+    "price": 7.489999771118164,
+    "qty_stock": 659
+},
+{
+    "idproduto": 23,
+    "name": "ÁGUA MINERAL BONAFONT SEM GÁS 1.5L",
+    "price": 2.390000104904175,
+    "qty_stock": 909
+},
+{
+    "idproduto": 24,
+    "name": "FILME DE PVC WYDA 28CMX15M",
+    "price": 3.990000009536743,
+    "qty_stock": 160
+},
+{
+    "idproduto": 25,
+    "name": "FILME DE PVC PRATSY 15M",
+    "price": 4.389999866485596,
+    "qty_stock": 410
+},
+{
+    "idproduto": 26,
+    "name": "ROLO DE PAPEL ALUMÍNIO WYDA 30CMX7.5M",
+    "price": 5.789999961853027,
+    "qty_stock": 660
+},
+{
+    "idproduto": 27,
+    "name": "ÁGUA MINERAL SEM GÁS MINALBA 1.5L",
+    "price": 2.2899999618530273,
+    "qty_stock": 910
+},
+{
+    "idproduto": 28,
+    "name": "GUARDANAPO GRAND HOTEL SCOTT 24X24CM C/ 50UN",
+    "price": 4.389999866485596,
+    "qty_stock": 160
+},
+{
+    "idproduto": 29,
+    "name": "GUARDANAPO DIA A DIA SCOTT 24X22CM C/ 50UN",
+    "price": 2.5899999141693115,
+    "qty_stock": 411
+},
+{
+    "idproduto": 33,
+    "name": "GUARDANAPO FOLHA DUPLA SNOB 23.5X23.5CM C/ 50UN",
+    "price": 4.25,
+    "qty_stock": 411
+},
+{
+    "idproduto": 34,
+    "name": "GUARDANAPO FOLHA SIMPLES SNOB 24X22CM C/ 50UN",
+    "price": 2.190000057220459,
+    "qty_stock": 661
+},
+{
+    "idproduto": 35,
+    "name": "PAPEL TOALHA SNOB C/ 2UN",
+    "price": 5.389999866485596,
+    "qty_stock": 912
+},
+{
+    "idproduto": 36,
+    "name": "TOALHA DE PAPEL SCOTT DURAMAX C/ 1UN",
+    "price": 11.289999961853027,
+    "qty_stock": 162
+},
+{
+    "idproduto": 40,
+    "name": "PRATO DESCARTÁVEL COPOBRAS 18CM",
+    "price": 1.9900000095367432,
+    "qty_stock": 163
+},
+{
+    "idproduto": 41,
+    "name": "PRATO DESCARTÁVEL COPOBRAS 15CM",
+    "price": 2.0899999141693115,
+    "qty_stock": 413
+},
+{
+    "idproduto": 43,
+    "name": "PRATO DESCARTÁVEL COPOBRAS 21CM",
+    "price": 3.7899999618530273,
+    "qty_stock": 913
+},
+{
+    "idproduto": 45,
+    "name": "COLHER DESCARTÁVEL MASTER PRAFESTA BRANCA C/ 50UN",
+    "price": 5.989999771118164,
+    "qty_stock": 413
+},
+{
+    "idproduto": 47,
+    "name": "GARFO DESCARTÁVEL MASTER PRAFESTA CRYSTAL C/ 50UN",
+    "price": 7.489999771118164,
+    "qty_stock": 914
+},
+{
+    "idproduto": 48,
+    "name": "FACA DESCARTÁVEL MASTER PRAFESTA CRYSTAL C/ 50UN",
+    "price": 8.989999771118164,
+    "qty_stock": 164
+},
+{
+    "idproduto": 51,
+    "name": "SACO PARA LIXO DOVER ROLL SUPER FORTE AZUL 50L C/ 30UN",
+    "price": 42.900001525878906,
+    "qty_stock": 915
+},
+{
+    "idproduto": 53,
+    "name": "PANO PARA LIMPEZA PERFEX C/ 5UN",
+    "price": 6.989999771118164,
+    "qty_stock": 415
+},
+{
+    "idproduto": 54,
+    "name": "PANO PARA LIMPEZA ALKLIN C/ 5UN",
+    "price": 4.789999961853027,
+    "qty_stock": 665
+},
+{
+    "idproduto": 55,
+    "name": "VELA SANTA CRUZ BRANCA C/8 25G",
+    "price": 5.889999866485596,
+    "qty_stock": 915
+},
+{
+    "idproduto": 57,
+    "name": "VELA SANTA CRUZ C/8 30G",
+    "price": 6.889999866485596,
+    "qty_stock": 416
+},
+{
+    "idproduto": 58,
+    "name": "BEBIDA DE SOJA SOYOS SÚFRESH LARANJA E CENOURA 1L",
+    "price": 4.989999771118164,
+    "qty_stock": 666
+},
+{
+    "idproduto": 59,
+    "name": "BEBIDA A BASE DE SOJA ADES LARANJA 1L",
+    "price": 5.389999866485596,
+    "qty_stock": 916
+},
+{
+    "idproduto": 60,
+    "name": "BEBIDA A BASE DE SOJA ADES MAÇÃ 1L",
+    "price": 5.590000152587891,
+    "qty_stock": 166
+},
+{
+    "idproduto": 61,
+    "name": "BEBIDA À BASE DE SOJA ADES MAÇÃ ZERO 1L",
+    "price": 7.389999866485596,
+    "qty_stock": 416
+},
+{
+    "idproduto": 62,
+    "name": "BEBIDA À BASE DE SOJA ADES LARANJA ZERO 1L",
+    "price": 7.389999866485596,
+    "qty_stock": 667
+},
+{
+    "idproduto": 65,
+    "name": "CREME DE TRATAMENTO ELSEVE ULTRA LISO 300G",
+    "price": 16.989999771118164,
+    "qty_stock": 417
+},
+{
+    "idproduto": 66,
+    "name": "CREME DE TRATAMENTO ELSEVE OLÉO EXTRAORDINÁRIO 300G",
+    "price": 18.989999771118164,
+    "qty_stock": 667
+},
+{
+    "idproduto": 74,
+    "name": "DESODORANTE ROLL ON DOVE ORIGINAL 50ML",
+    "price": 10.489999771118164,
+    "qty_stock": 669
+},
+{
+    "idproduto": 75,
+    "name": "DESODORANTE ROLL ON DOVE SENSITIVE SEM PERFUME 50ML",
+    "price": 10.739999771118164,
+    "qty_stock": 919
+},
+{
+    "idproduto": 76,
+    "name": "DESODORANTE AEROSOL DOVE BEAUTY 150ML",
+    "price": 14.989999771118164,
+    "qty_stock": 169
+},
+{
+    "idproduto": 77,
+    "name": "DESODORANTE AEROSOL DOVE PURE 100G",
+    "price": 13.1899995803833,
+    "qty_stock": 419
+},
+{
+    "idproduto": 78,
+    "name": "REFRIGERANTE ANTARCTICA GUARANÁ 2L",
+    "price": 6.789999961853027,
+    "qty_stock": 670
+},
+{
+    "idproduto": 79,
+    "name": "ÁGUA MINERAL SEM GÁS CRYSTAL GARRAFÃO 5L",
+    "price": 7.989999771118164,
+    "qty_stock": 920
+},
+{
+    "idproduto": 82,
+    "name": "REFRIGERANTE H2OH! DE LIMÃO 500ML",
+    "price": 3.0899999141693115,
+    "qty_stock": 670
+},
+{
+    "idproduto": 84,
+    "name": "DESODORANTE AEROSOL NIVEA SENSITIVE SEM PERFUME 150ML",
+    "price": 11.989999771118164,
+    "qty_stock": 171
+},
+{
+    "idproduto": 87,
+    "name": "REFRIGERANTE H2OH! LIMÃO 1.5L",
+    "price": 6.989999771118164,
+    "qty_stock": 921
+},
+{
+    "idproduto": 88,
+    "name": "DESODORANTE AEROSOL NIVEA BLACK&WHITE INVISIBLE MASCULINO 150ML",
+    "price": 11.989999771118164,
+    "qty_stock": 171
+},
+{
+    "idproduto": 92,
+    "name": "ÁGUA MINERAL PRATA SEM GÁS 1.5L",
+    "price": 3.0899999141693115,
+    "qty_stock": 172
+},
+{
+    "idproduto": 94,
+    "name": "NÉCTAR MAGUARY DE MARACUJÁ 1L",
+    "price": 4.489999771118164,
+    "qty_stock": 672
+},
+{
+    "idproduto": 95,
+    "name": "REFRIGERANTE ANTARCTICA GUARANÁ ZERO 2L",
+    "price": 5.789999961853027,
+    "qty_stock": 923
+},
+{
+    "idproduto": 96,
+    "name": "ÁGUA MINERAL SEM GÁS CRYSTAL PET 1.5L",
+    "price": 2.5899999141693115,
+    "qty_stock": 173
+},
+{
+    "idproduto": 97,
+    "name": "ÁGUA MINERAL BONAFONT SEM GÁS 500ML",
+    "price": 1.75,
+    "qty_stock": 423
+},
+{
+    "idproduto": 98,
+    "name": "DESODORANTE AEROSOL REXONA ANTIBACTERIANO + INVISIBLE PROTECTION FEMININO 150ML",
+    "price": 11.989999771118164,
+    "qty_stock": 673
+}
+]
